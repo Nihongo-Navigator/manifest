@@ -1,23 +1,23 @@
 {
   "name": "Nihongo Navigator",
-  "short_name": "Nihongo Navigator",
-  "description": "Learn Japanese with Nihongo Navigator",
-  "start_url": "https://nihongo-navigator.in",
+  "short_name": "NihongoNav",
+  "description": "Master Japanese Grammar and JLPT N5 with Nihongo Navigator.",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#1a73e8",
   "background_color": "#ffffff",
-  "orientation": "portrait",
-  "lang": "en",
+  "theme_color": "#1a73e8",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7KgNQlOSWC5ANS0rPIJ6-HybWqnajNFH8Q63CDvhYyUlaXDSvD4JYmOAQyvQQbquJKle1E8E2PoaTF42j1J6mD_Jtar6XX1GxjWMiq1mwiTuHzjJwJS65Q-_uJYWUBpZsvhLHeWZYYs6LQE1kCAYDV4BsAaluCgXPz-S9ogV-dSd4Z-t6dDgg9_FsDrM/s980/icon-fuji-mountain-japan-r.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7KgNQlOSWC5ANS0rPIJ6-HybWqnajNFH8Q63CDvhYyUlaXDSvD4JYmOAQyvQQbquJKle1E8E2PoaTF42j1J6mD_Jtar6XX1GxjWMiq1mwiTuHzjJwJS65Q-_uJYWUBpZsvhLHeWZYYs6LQE1kCAYDV4BsAaluCgXPz-S9ogV-dSd4Z-t6dDgg9_FsDrM/s192/icon-fuji-mountain-japan-r.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7KgNQlOSWC5ANS0rPIJ6-HybWqnajNFH8Q63CDvhYyUlaXDSvD4JYmOAQyvQQbquJKle1E8E2PoaTF42j1J6mD_Jtar6XX1GxjWMiq1mwiTuHzjJwJS65Q-_uJYWUBpZsvhLHeWZYYs6LQE1kCAYDV4BsAaluCgXPz-S9ogV-dSd4Z-t6dDgg9_FsDrM/s980/icon-fuji-mountain-japan-r.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7KgNQlOSWC5ANS0rPIJ6-HybWqnajNFH8Q63CDvhYyUlaXDSvD4JYmOAQyvQQbquJKle1E8E2PoaTF42j1J6mD_Jtar6XX1GxjWMiq1mwiTuHzjJwJS65Q-_uJYWUBpZsvhLHeWZYYs6LQE1kCAYDV4BsAaluCgXPz-S9ogV-dSd4Z-t6dDgg9_FsDrM/s512/icon-fuji-mountain-japan-r.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
