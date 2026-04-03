@@ -1,0 +1,16 @@
+{
+  "name": "Nihongo Navigator",
+  "short_name": "Nihongo Navigator",
+  "description": "Learn Japanese with Nihongo Navigator",
+  "start_url": "https://nihongo-navigator.in",
+  "display": "standalone",
+  "theme_color": "#1a73e8",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2xJmimXBYXg1Uu77EPN6Xcq7lNOzEOrAGbYkkKxsS4V49sdx5y-OZnzY9BKYnPeLVlaxxKffmQtVqUQCMALslmHndhpmax6q4cfGs1LL55GjX25-HItzS6QSS6N5znUxPrhEjcy4CyG-a9fXnjhCO5F8JEV2kw89FWv6NqhivKeujeiSxB6R19cy8K8/s980/icon-fuji-mountain-japan-r.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
